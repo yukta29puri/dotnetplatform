@@ -1,0 +1,9 @@
+Create a customer class with the following properties with appropriate data types
+Id
+Name
+Email
+Mobile
+Address
+LoyaltyMembership
+
+Display the customer details on console
